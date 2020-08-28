@@ -12,7 +12,7 @@ function slackSuccessMessage(source, target, status) {
       color: "#27ae60",
       icon: ":white_check_mark:",
       message: `${source} was successfully merged into ${target}.`,
-      description: `*${target}* can be pushed to production!`
+      description: ":woohoo: :burger: :partycorgi:"
   }
 }
 
